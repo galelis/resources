@@ -14,8 +14,8 @@ body {
 }
 @media only screen {
 	body {
-		margin: 2em auto;
-		max-width: 900px;
+		margin: 0 !important;
+		max-width: unset;
 		color: rgb(55, 53, 47);
 	}
 }
